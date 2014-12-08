@@ -21,6 +21,6 @@ You might need to use an extra command to give the file extra privaledges
 
 TODO
 ----------
-1) Add MongoDB as a backend
-2) Apply Machiene Learning for more accurate emotional tracking
-3) Create a dashboard
+* Add MongoDB as a backend
+* Apply Machiene Learning for more accurate emotional tracking
+* Create a dashboard
